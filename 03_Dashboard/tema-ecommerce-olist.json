@@ -1,0 +1,44 @@
+{
+  "name": "Olist Analytics | Suzy",
+  "dataColors": [
+    "#0B3C6F",
+    "#E76F51",
+    "#2A9D8F",
+    "#F2C94C",
+    "#7B61A8",
+    "#4FA3D1",
+    "#D96C75",
+    "#6C8EAD"
+  ],
+  "background": "#F4F8FC",
+  "foreground": "#1F2933",
+  "tableAccent": "#145DA0",
+  "good": "#2E8B57",
+  "neutral": "#E0B83F",
+  "bad": "#C94C4C",
+  "maximum": "#0B3C6F",
+  "center": "#F2C94C",
+  "minimum": "#C94C4C",
+  "textClasses": {
+    "callout": {
+      "fontSize": 28,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#0B3C6F"
+    },
+    "title": {
+      "fontSize": 12,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2933"
+    },
+    "header": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#1F2933"
+    },
+    "label": {
+      "fontSize": 10,
+      "fontFace": "Segoe UI",
+      "color": "#52606D"
+    }
+  }
+}
