@@ -1,4 +1,4 @@
-# 🛒 E-commerce Analytics — Olist (SQL + Power BI)
+# 🛒 E-commerce Analytics — Olist 
 
 <img width="150%" alt="LH Nautical Banner" src="04_Imagens/Img_olist.png" />
 
